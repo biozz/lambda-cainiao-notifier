@@ -1,0 +1,10 @@
+{
+  "name": "cainiao-notifier",
+  "description": "N/A",
+  "run": [
+    "./venv/bin/python3",
+    "app.py"
+  ],
+  "time_limit": "15s",
+  "maximum_payload": 8192
+}
